@@ -1,8 +1,8 @@
 # COVID19 - Sri Lanka Situation Report 🇱🇰
 
-![covid19-sl](https://github.com/kalharatennakoon/covid19-sl/blob/main/images/covid-19sl_3.png?raw=true)
+![covid19-sl](https://github.com/kalharatennakoon/covid19-sl/blob/main/images/covid19-sl-local.png?raw=true)
 
-![covid19-sl](https://github.com/kalharatennakoon/covid19-sl/blob/main/images/covid-19sl_global.png?raw=true)
+![covid19-sl](https://github.com/kalharatennakoon/covid19-sl/blob/main/images/covid19-sl-global.png?raw=true)
 
 * COVID-19 Sri Lanka dashboard created using the API released by Health Promotion Bureau of Sri Lanka (Global stats are included).
 ## [Live Site]()

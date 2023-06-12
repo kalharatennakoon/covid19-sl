@@ -1,0 +1,137 @@
+
+.jumbotron{
+    /* position: relative;
+    background: none;
+
+        background-color: #DAE3E7; 
+        background: #DAE3E7;  */
+
+        background: rgba(204,222, 255, .5);
+        /* color: rgba(255, 255, 255); */
+        position: relative;
+        /* padding: 50px; */
+}
+
+.local{
+    height: 20rem;
+    border-radius: 25px;
+}
+
+.global{
+    height: 20rem;
+    border-radius: 25px;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 70px;
+    height: 34px;
+}
+  
+.switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+  
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 1px solid silver;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+  
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(35px);
+}
+ 
+.slider.round {
+    border-radius: 34px;
+}
+  
+.slider.round:before {
+    border-radius: 50%;
+}
+
+.main-heading{
+    font-family: 'Libre Baskerville', serif;
+}
+
+.heading{
+    font-family: 'Trirong', serif;
+}
+
+.other-text{
+    font-family: 'Sofia', cursive;
+}
+
+.number{
+    font-family: 'Trirong', serif;
+}
+
+/* .my-portfolio a:link{
+    color: black;
+    text-decoration: underline;
+    background-color: transparent;
+}
+
+.my-portfolio a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+.my-portfolio a:hover {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+.my-portfolio a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+} */
+
+
+/*  particle.js */
+/* body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}  */
+
+#particles-js {
+  /* position: absolute; */
+  width: 100%;
+  height: 100%;
+  /* background: teal; */
+  background: teal;
+  position: fixed;
+  z-index: -100;
+  opacity: 1
+
+}
+
+
+

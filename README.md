@@ -5,7 +5,8 @@
 ![covid19-sl](https://github.com/kalharatennakoon/covid19-sl/blob/main/images/covid19-sl-global.png?raw=true)
 
 * COVID-19 Sri Lanka dashboard created using the API released by Health Promotion Bureau of Sri Lanka (Global stats are included).
-## [Live Site](https://covid19-stats-sl.netlify.app)
+
+### [Live Site](https://covid19-stats-sl.netlify.app)[^1].
 
 ## Technology Used:
 * HTML
@@ -21,3 +22,5 @@
 * Local and Global stats can be switched via a single click
 * Thousand separator for easy read
 
+
+[^1]: The link is updating

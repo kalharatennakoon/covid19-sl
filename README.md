@@ -23,4 +23,4 @@
 * Thousand separator for easy read
 
 
-[^1]: The link is updating
+[^1]: The link is updating...
